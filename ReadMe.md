@@ -62,19 +62,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rinu143&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinu143&theme=dark&layout=compact&hide_border=false" />
-</p>
+![Rinu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rinu143&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
----
+<br><br>
 
-## 🏆 GitHub Trophies
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rinu143&theme=dracula&layout=donut)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rinu143&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
