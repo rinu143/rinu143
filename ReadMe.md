@@ -2,12 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Rinu+Manoj+%F0%9F%94%A5;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rinu143&label=Profile%20Views&color=00FFB3&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
 ## 💫 About Me
 
 👨‍💻 Full Stack Developer passionate about building modern web applications
