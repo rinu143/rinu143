@@ -5,14 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=RINU%20MANOJ&fontSize=65&fontColor=ffffff&fontAlignY=50&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=68&descSize=18&animation=fadeIn" width="100%"/>
 
-<br>
-
-# Hey, I'm Rinu 👋
-
-### I build things for the web & explore AI.
-
-<br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/rinu143)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/rinu.exe/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rinumanoj402@gmail.com)
@@ -104,26 +96,6 @@
 🎧 Music
 🏍️ Bike Rides
 ```
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:[rinumanoj402@gmail.com](mailto:rinumanoj402@gmail.com)">
-  <img src="https://img.shields.io/badge/Email-rinumanoj402%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/rinu.exe/">
-  <img src="https://img.shields.io/badge/Instagram-@rinu.exe-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://github.com/rinu143">
-  <img src="https://img.shields.io/badge/GitHub-rinu143-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
 
 ---
 
