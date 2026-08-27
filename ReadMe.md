@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=Rinu)[Rinu](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=Rinu) | +  Dev | +Coffee.log( )+%F0%9F%91%8B;I'm+Rinu+Manoj+%F0%9F%94%A5;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96"/> </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Rinu+Manoj+%F0%9F%94%A5;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rinu143&label=Profile%20Views&color=00FFB3&style=for-the-badge" alt="Profile Views"/>
@@ -125,10 +126,6 @@
 <h3 align="center">
   🚀 Code • Create • Learn • Repeat 🔥
 </h3>
-
-<p align="center">
-  Thanks for visiting my profile! 👋
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
