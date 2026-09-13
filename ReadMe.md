@@ -1,7 +1,7 @@
 <!-- <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Rinu+Manoj+%F0%9F%94%A5;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
 </h1> -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=RINU%20MANOJ&fontSize=65&fontColor=ffffff&fontAlignY=50&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=68&descSize=18&animation=fadeIn" width="100%"/>
 
@@ -11,8 +11,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/rinu.exe/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rinumanoj402@gmail.com)
 
-</div>
+</div> -->
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="rinu143's GitHub profile" src="./dark_mode.svg" />
+</picture>
 
 ## 💫 About Me
 
