@@ -1,124 +1,70 @@
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00FFB3&center=true&vCenter=true&width=1000&height=100&lines=Hello+World!+%F0%9F%91%8B;I'm+Rinu+Manoj+%F0%9F%94%A5;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96" alt="Typing SVG" />
-</h1> -->
-<!-- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=RINU%20MANOJ&fontSize=65&fontColor=ffffff&fontAlignY=50&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=68&descSize=18&animation=fadeIn" width="100%"/>
-
-</br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/rinu143)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://www.instagram.com/rinu.exe/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:rinumanoj402@gmail.com)
-
-</div> -->
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="rinu143's GitHub profile" src="./dark_mode.svg" />
+  <img alt="rinu143's GitHub profile" src="./dark_mode.svg" width="100%" />
 </picture>
 
-## 💫 About Me
+<div align="center">
 
-👨‍💻 Full Stack Developer passionate about building modern web applications
-🤖 AI Enthusiast exploring intelligent applications and emerging technologies
-🌱 Always learning, experimenting, and improving my development skills
-💻 Interested in Web Development, AI, Backend Systems, and Open Source
-⚡ When I'm not coding, you can find me listening to music or going on a bike ride
-🎯 My goal is to build useful technology that solves real-world problems
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rinu143)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rinumanoj402@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rinu.exe/)
 
----
+</div>
 
-## 🚀 What I Do
-
-* 🌐 Build full-stack web applications
-* 🤖 Explore AI-powered applications
-* 🛠️ Develop scalable backend systems
-* 🎨 Create responsive and modern user interfaces
-* 🧠 Learn new technologies and development practices
-* 🚀 Turn ideas into working projects
+Software developer working across systems, machine learning, and full-stack web applications. Most of my work sits around computer vision pipelines, native Windows integrations, and edge-first web backends.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖 AI & Tools
-
-![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Project | Description | Core Stack |
+| :--- | :--- | :--- |
+| **[Peek](https://github.com/rinu143/peek)** | Windows biometric face-unlock using deep ArcFace embeddings and independent dual-gate liveness checks. Integrates with Windows Media Foundation and Credential Provider boundaries. | `Python` `OpenCV` `ArcFace` `Win32` |
+| **[Trashey](https://github.com/rinu143/trashey)** | Image-based 6-class recyclable waste classifier built using hand-engineered vision features and a tuned Random Forest (73.9% test accuracy vs 16.7% baseline). | `Python` `Scikit-learn` `OpenCV` |
+| **[Chali](https://github.com/rinu143/chali)** | Edge-native Malayalam joke sharing app. Uses cursor-based random walks on indexed Cloudflare D1 (SQLite) behind Cloudflare Workers for sub-millisecond lookups. | `JavaScript` `Cloudflare Workers` `D1` `Vite` |
+| **[ZeroSight](https://github.com/rinu143/ZeroSight)** | Privacy-first campus lost-and-found platform with multimodal visual feature extraction using vision language models (Nemotron VLM). | `Node.js` `Express` `MongoDB` `Vision AI` |
+| **[Googlle](https://github.com/rinu143/googlle)** | Real-time mentalism performance tool disguised as a search engine that streams spectator inputs live to a performer's private dashboard. | `React` `Node.js` `WebSockets` `Razorpay` |
+| **[Forge AI](https://github.com/rinu143/forge.ai)** | Startup advisory co-pilot that analyzes problems and crafts execution roadmaps tailored to runway, tech stack, and team constraints. | `TypeScript` `React` `Tailwind CSS` `Vite` |
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite_/_D1-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+- **Languages:** TypeScript, JavaScript, Python, PHP, SQL
+- **Backend & Cloud:** Node.js, Express, Cloudflare Workers, Cloudflare D1, MongoDB, REST APIs, WebSockets
+- **Frontend:** React, Vite, Tailwind CSS, HTML5, CSS3
+- **Vision & ML:** OpenCV, ArcFace, Scikit-learn, Feature Engineering
+
+---
+
+## GitHub Activity
 
 <p align="center">
-
-![Rinu's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=rinu143&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-<br><br>
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rinu143&theme=dracula&layout=donut)
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rinu143&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=rinu143&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎯 Currently
+## Get in Touch
 
-```text
-💻 Building      → Full Stack Projects
-🤖 Exploring     → Artificial Intelligence
-📚 Learning      → New Technologies
-🚀 Improving     → Software Development Skills
-```
-
----
-
-## 🎵 Beyond Code
-
-```text
-💻 Coding
-🎧 Music
-🏍️ Bike Rides
-```
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
----
-
-<h3 align="center">
-  🚀 Code • Create • Learn • Repeat 🔥
-</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" width="100%" />
-</p>
+- Email: [rinumanoj402@gmail.com](mailto:rinumanoj402@gmail.com)
+- Instagram: [@rinu.exe](https://www.instagram.com/rinu.exe/)
+- GitHub: [@rinu143](https://github.com/rinu143)
